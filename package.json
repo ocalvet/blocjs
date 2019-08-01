@@ -1,0 +1,25 @@
+{
+  "name": "@calveto/bloc",
+  "description": "BLoC helper classes for javascript",
+  "license": "MIT",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest",
+    "test:cov": "jest --coverage",
+    "test:watch": "TERM=dumb jest --watchAll"
+  },
+  "private": false,
+  "keywords": [
+    "bloc",
+    "bloc pattern"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "rxjs": "^6.5.2"
+  }
+}
