@@ -1,5 +1,9 @@
 {
-  "name": "@calveto/bloc",
+  "name": "@calveto/blocjs",
+  "author": {
+    "name": "Ovidio R. Calvet",
+    "email": "ovidio@calvetsolutions.com"
+  },
   "description": "BLoC helper classes for javascript",
   "license": "MIT",
   "version": "1.0.0",
@@ -13,6 +17,7 @@
     "bloc",
     "bloc pattern"
   ],
+  "main": "index.js",
   "devDependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
