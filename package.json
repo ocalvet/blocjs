@@ -12,6 +12,10 @@
     "test:cov": "jest --coverage",
     "test:watch": "TERM=dumb jest --watchAll"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ocalvet/simple-bloc"
+  },
   "private": false,
   "keywords": [
     "bloc",
